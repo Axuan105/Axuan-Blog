@@ -5,7 +5,7 @@ import sidebar from './sidebar'
 export default defineConfig({
   lang: 'zh-CN',
   title: 'AXUAN 的博客',
-  base: '/Blog/',
+  base: '/Axuan-Blog/',
   head: [
     ['link', { rel: 'icon', href: '/logo2.png' }],
   ],
