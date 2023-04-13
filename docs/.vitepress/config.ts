@@ -7,7 +7,7 @@ export default defineConfig({
   title: 'AXUAN 的博客',
   base: '/Axuan-Blog/',
   head: [
-    ['link', { rel: 'icon', href: '/logo2.png' }],
+    ['link', { rel: 'icon', href: '/public/logo2.png' }],
   ],
   themeConfig: {
     logo: '/logo2.png',

@@ -12,7 +12,7 @@ hero:
     src: /logo2.png
   actions:
     - theme: brand
-      text: 进入——>
+      text: 进入
       link: /learning/way/html&css.md
     - theme: alt
       text: 关于博主
