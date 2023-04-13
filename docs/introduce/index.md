@@ -1,7 +1,7 @@
 # 作者简介
 
 >Axuan（笔名），土生土长湖南人
-- [Github(1k+ star)](https://github.com/zzz412)
+- [Github(1k+ star)](https://github.com/Axuan105)
 
 ## 技术栈
 
